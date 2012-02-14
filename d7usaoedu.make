@@ -2,7 +2,7 @@
 core = 7.x
 
 api = 2
-projects[drupal][version] = "7.10"
+projects[drupal][version] = "7.12"
 
 ; Modules
 projects[views_bulk_operations][subdir] = "sites/d7.usao.edu/modules/contrib/views_bulk_operations"
