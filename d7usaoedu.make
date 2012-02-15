@@ -49,9 +49,9 @@ projects[email][subdir] = "sites/d7.usao.edu/modules/contrib/email"
 projects[email][version] = "1.0"
 projects[email][type] = "module"
 
-projects[emfield][subdir] = "sites/d7.usao.edu/modules/contrib/emfield"
-projects[emfield][version] = "7.x-1.0-alpha1"
-projects[emfield][type] = "module"
+; projects[emfield][subdir] = "sites/d7.usao.edu/modules/contrib/emfield"
+; projects[emfield][version] = "7.x-1.0-alpha1"
+; projects[emfield][type] = "module"
 
 projects[entity][subdir] = "sites/d7.usao.edu/modules/contrib/entity"
 projects[entity][version] = "1.0-rc1"
