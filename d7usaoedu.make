@@ -26,10 +26,10 @@ projects[cck][version] = "2.x-dev"
 ; Libraries
 ; Please fill the following out. Type may be one of get, cvs, git, bzr or svn,
 ; and url is the url of the download.
-libraries[colorbox][download][type] = ""
-libraries[colorbox][download][url] = ""
-libraries[colorbox][directory_name] = "colorbox"
-libraries[colorbox][type] = "library"
+; libraries[colorbox][download][type] = ""
+; libraries[colorbox][download][url] = ""
+; libraries[colorbox][directory_name] = "colorbox"
+; libraries[colorbox][type] = "library"
 
 ; Modules
 projects[context][subdir] = "sites/d7.usao.edu/modules/contrib/context"
@@ -97,11 +97,11 @@ projects[quicktabs][version] = "3.3"
 
 ; Please fill the following out. Type may be one of get, cvs, git, bzr or svn,
 ; and url is the url of the download.
-projects[revision_catalog][download][type] = ""
-projects[revision_catalog][download][url] = ""
-projects[revision_catalog][type] = "module"
-projects[revision_catalog][subdir] = "sites/d7.usao.edu/modules/custom_features/revision_catalog"
-projects[revision_catalog][version] = "1.0-beta1"
+; projects[revision_catalog][download][type] = ""
+; projects[revision_catalog][download][url] = ""
+; projects[revision_catalog][type] = "module"
+; projects[revision_catalog][subdir] = "sites/d7.usao.edu/modules/custom_features/revision_catalog"
+; projects[revision_catalog][version] = "1.0-beta1"
 
 projects[strongarm][subdir] = "sites/d7.usao.edu/modules/contrib/strongarm"
 projects[strongarm][version] = "2.0-beta5"
@@ -111,11 +111,11 @@ projects[token][version] = "1.0-beta7"
 
 ; Please fill the following out. Type may be one of get, cvs, git, bzr or svn,
 ; and url is the url of the download.
-projects[usao_tabbed_box][download][type] = ""
-projects[usao_tabbed_box][download][url] = ""
-projects[usao_tabbed_box][type] = "module"
-projects[usao_tabbed_box][subdir] = "sites/d7.usao.edu/modules/custom_features/usao_tabbed_box"
-projects[usao_tabbed_box][version] = "1.0"
+; projects[usao_tabbed_box][download][type] = ""
+; projects[usao_tabbed_box][download][url] = ""
+; projects[usao_tabbed_box][type] = "module"
+; projects[usao_tabbed_box][subdir] = "sites/d7.usao.edu/modules/custom_features/usao_tabbed_box"
+; projects[usao_tabbed_box][version] = "1.0"
 
 projects[variablecheck][subdir] = "sites/d7.usao.edu/modules/contrib/variablecheck"
 projects[variablecheck][version] = "1.2"
@@ -142,123 +142,122 @@ projects[tao][version] = "3.0-beta4"
 ; Modules
 ; Please fill the following out. Type may be one of get, cvs, git, bzr or svn,
 ; and url is the url of the download.
-projects[addplus][download][type] = ""
-projects[addplus][download][url] = ""
-projects[addplus][type] = "module"
+; projects[addplus][download][type] = ""
+; projects[addplus][download][url] = ""
+; projects[addplus][type] = "module"
 
 ; Please fill the following out. Type may be one of get, cvs, git, bzr or svn,
 ; and url is the url of the download.
-projects[ckeditor_tweaks][download][type] = ""
-projects[ckeditor_tweaks][download][url] = ""
-projects[ckeditor_tweaks][type] = "module"
+; projects[ckeditor_tweaks][download][type] = ""
+; projects[ckeditor_tweaks][download][url] = ""
+; projects[ckeditor_tweaks][type] = "module"
 
 ; Please fill the following out. Type may be one of get, cvs, git, bzr or svn,
 ; and url is the url of the download.
-projects[emailLayout][download][type] = ""
-projects[emailLayout][download][url] = ""
-projects[emailLayout][type] = "module"
+; projects[emailLayout][download][type] = ""
+; projects[emailLayout][download][url] = ""
+; projects[emailLayout][type] = "module"
 
 ; Please fill the following out. Type may be one of get, cvs, git, bzr or svn,
 ; and url is the url of the download.
-projects[rebuild][download][type] = ""
-projects[rebuild][download][url] = ""
-projects[rebuild][type] = "module"
+; projects[rebuild][download][type] = ""
+; projects[rebuild][download][url] = ""
+; projects[rebuild][type] = "module"
 
 ; Please fill the following out. Type may be one of get, cvs, git, bzr or svn,
 ; and url is the url of the download.
-projects[restrict_search][download][type] = ""
-projects[restrict_search][download][url] = ""
-projects[restrict_search][type] = "module"
+; projects[restrict_search][download][type] = ""
+; projects[restrict_search][download][url] = ""
+; projects[restrict_search][type] = "module"
 
 ; Please fill the following out. Type may be one of get, cvs, git, bzr or svn,
 ; and url is the url of the download.
-projects[usao][download][type] = ""
-projects[usao][download][url] = ""
-projects[usao][type] = "module"
+; projects[usao][download][type] = ""
+; projects[usao][download][url] = ""
+; projects[usao][type] = "module"
 
 ; Please fill the following out. Type may be one of get, cvs, git, bzr or svn,
 ; and url is the url of the download.
-projects[usao_alumni][download][type] = ""
-projects[usao_alumni][download][url] = ""
-projects[usao_alumni][type] = "module"
+; projects[usao_alumni][download][type] = ""
+; projects[usao_alumni][download][url] = ""
+; projects[usao_alumni][type] = "module"
 
 ; Please fill the following out. Type may be one of get, cvs, git, bzr or svn,
 ; and url is the url of the download.
-projects[usao_dwpas][download][type] = ""
-projects[usao_dwpas][download][url] = ""
-projects[usao_dwpas][type] = "module"
+; projects[usao_dwpas][download][type] = ""
+; projects[usao_dwpas][download][url] = ""
+; projects[usao_dwpas][type] = "module"
 
 ; Please fill the following out. Type may be one of get, cvs, git, bzr or svn,
 ; and url is the url of the download.
-projects[usao_emerson_weir][download][type] = ""
-projects[usao_emerson_weir][download][url] = ""
-projects[usao_emerson_weir][type] = "module"
+; projects[usao_emerson_weir][download][type] = ""
+; projects[usao_emerson_weir][download][url] = ""
+; projects[usao_emerson_weir][type] = "module"
 
 ; Please fill the following out. Type may be one of get, cvs, git, bzr or svn,
 ; and url is the url of the download.
-projects[usao_fai][download][type] = ""
-projects[usao_fai][download][url] = ""
-projects[usao_fai][type] = "module"
+; projects[usao_fai][download][type] = ""
+; projects[usao_fai][download][url] = ""
+; projects[usao_fai][type] = "module"
 
 ; Please fill the following out. Type may be one of get, cvs, git, bzr or svn,
 ; and url is the url of the download.
-projects[usao_giles][download][type] = ""
-projects[usao_giles][download][url] = ""
-projects[usao_giles][type] = "module"
+; projects[usao_giles][download][type] = ""
+; projects[usao_giles][download][url] = ""
+; projects[usao_giles][type] = "module"
 
 ; Please fill the following out. Type may be one of get, cvs, git, bzr or svn,
 ; and url is the url of the download.
-projects[usao_holiday_dome][download][type] = ""
-projects[usao_holiday_dome][download][url] = ""
-projects[usao_holiday_dome][type] = "module"
+; projects[usao_holiday_dome][download][type] = ""
+; projects[usao_holiday_dome][download][url] = ""
+; projects[usao_holiday_dome][type] = "module"
 
 ; Themes
 ; Please fill the following out. Type may be one of get, cvs, git, bzr or svn,
 ; and url is the url of the download.
-projects[green_and_gray][download][type] = ""
-projects[green_and_gray][download][url] = ""
-projects[green_and_gray][type] = "theme"
+; projects[green_and_gray][download][type] = ""
+; projects[green_and_gray][download][url] = ""
+; projects[green_and_gray][type] = "theme"
 
 ; Libraries
 ; Please fill the following out. Type may be one of get, cvs, git, bzr or svn,
 ; and url is the url of the download.
-libraries[ckeditor][download][type] = ""
-libraries[ckeditor][download][url] = ""
-libraries[ckeditor][directory_name] = "ckeditor"
-libraries[ckeditor][type] = "library"
+; libraries[ckeditor][download][type] = ""
+; libraries[ckeditor][download][url] = ""
+; libraries[ckeditor][directory_name] = "ckeditor"
+; libraries[ckeditor][type] = "library"
 
 ; Please fill the following out. Type may be one of get, cvs, git, bzr or svn,
 ; and url is the url of the download.
-libraries[jquery.cycle][download][type] = ""
-libraries[jquery.cycle][download][url] = ""
-libraries[jquery.cycle][directory_name] = "jquery.cycle"
-libraries[jquery.cycle][type] = "library"
+; libraries[jquery.cycle][download][type] = ""
+; libraries[jquery.cycle][download][url] = ""
+; libraries[jquery.cycle][directory_name] = "jquery.cycle"
+; libraries[jquery.cycle][type] = "library"
 
 ; Please fill the following out. Type may be one of get, cvs, git, bzr or svn,
 ; and url is the url of the download.
-libraries[Zend][download][type] = ""
-libraries[Zend][download][url] = ""
-libraries[Zend][directory_name] = "Zend"
-libraries[Zend][type] = "library"
+; libraries[Zend][download][type] = ""
+; libraries[Zend][download][url] = ""
+; libraries[Zend][directory_name] = "Zend"
+; libraries[Zend][type] = "library"
 
 ; Please fill the following out. Type may be one of get, cvs, git, bzr or svn,
 ; and url is the url of the download.
-libraries[jquery.ui][download][type] = ""
-libraries[jquery.ui][download][url] = ""
-libraries[jquery.ui][directory_name] = "jquery.ui"
-libraries[jquery.ui][type] = "library"
+; libraries[jquery.ui][download][type] = ""
+; libraries[jquery.ui][download][url] = ""
+; libraries[jquery.ui][directory_name] = "jquery.ui"
+; libraries[jquery.ui][type] = "library"
 
 ; Please fill the following out. Type may be one of get, cvs, git, bzr or svn,
 ; and url is the url of the download.
-libraries[htmlpurifier][download][type] = ""
-libraries[htmlpurifier][download][url] = ""
-libraries[htmlpurifier][directory_name] = "htmlpurifier"
-libraries[htmlpurifier][type] = "library"
+; libraries[htmlpurifier][download][type] = ""
+; libraries[htmlpurifier][download][url] = ""
+; libraries[htmlpurifier][directory_name] = "htmlpurifier"
+; libraries[htmlpurifier][type] = "library"
 
 ; Please fill the following out. Type may be one of get, cvs, git, bzr or svn,
 ; and url is the url of the download.
-libraries[wurfl][download][type] = ""
-libraries[wurfl][download][url] = ""
-libraries[wurfl][directory_name] = "wurfl"
-libraries[wurfl][type] = "library"
-
+; libraries[wurfl][download][type] = ""
+; libraries[wurfl][download][url] = ""
+; libraries[wurfl][directory_name] = "wurfl"
+; libraries[wurfl][type] = "library"
