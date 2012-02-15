@@ -133,8 +133,8 @@ projects[wysiwyg][version] = "2.1"
 projects[omega][subdir] = "sites/d7.usao.edu/themes/omega"
 projects[omega][version] = "3.0"
 
-projects[rubik][subdir] = "sites/d7.usao.edu/themes/rubik"
-projects[rubik][version] = "4.0-beta7"
+; projects[rubik][subdir] = "sites/d7.usao.edu/themes/rubik"
+; projects[rubik][version] = "4.0-beta7"
 
 ; projects[tao][subdir] = "sites/d7.usao.edu/themes/tao"
 ; projects[tao][version] = "3.0-beta4"
